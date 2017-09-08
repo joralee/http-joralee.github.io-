@@ -1,7 +1,13 @@
 ---
 layout: post
-title: You're up and running!
+title: Welcome to joralee Blog
+date: 2017-09-09 10:19:00 +0700
+categories: My Blog
 ---
+
+# Welcome to my first Blog
+## My name is siriwan joralee
+### I am a student at Ubon ratchathani Rajchathani University
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
